@@ -42,9 +42,10 @@ S3 (input data)
 ↓
 EC2 (Nextflow pipeline execution)
 ↓
-S3 (results)
+S3 (results) 
 
 IAM Role → secure access between EC2 and S3
+
 ---
 
 ## Security and Authentication
