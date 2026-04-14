@@ -1,0 +1,17 @@
+  1.71	2	2	U	0	unclassified
+ 98.29	115	0	R	1	root
+ 98.29	115	0	R1	131567	  cellular organisms
+ 98.29	115	0	D	2	    Bacteria
+ 98.29	115	0	K	3379134	      Pseudomonadati
+ 98.29	115	0	K1	1783270	        FCB group
+ 98.29	115	0	K2	68336	          Bacteroidota/Chlorobiota group
+ 98.29	115	0	P	976	            Bacteroidota
+ 98.29	115	0	C	200643	              Bacteroidia
+ 98.29	115	0	O	171549	                Bacteroidales
+ 98.29	115	0	F	815	                  Bacteroidaceae
+ 98.29	115	0	G	816	                    Bacteroides
+ 94.02	110	0	S	47678	                      Bacteroides caccae
+ 94.02	110	110	S1	997873	                        Bacteroides caccae CL03T12C61
+  1.71	2	2	S	818	                      Bacteroides thetaiotaomicron
+  1.71	2	2	S	2650157	                      Bacteroides zhangwenhongii
+  0.85	1	1	S	674529	                      Bacteroides faecis

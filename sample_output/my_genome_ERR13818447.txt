@@ -1,0 +1,7 @@
+organism: Escherichia species strain 
+contigs: 117
+bases: 4669362
+CDS: 3793
+rRNA: 3
+tRNA: 64
+tmRNA: 1
